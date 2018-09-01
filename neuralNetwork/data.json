@@ -1,0 +1,57 @@
+[
+  {
+    "homeTeam": "Boston Celtics",
+    "awayTeam": "Los Angeles Lakers",
+    "winner": "Boston Celtics"
+  },
+  {
+    "homeTeam": "Dallas Mavericks",
+    "awayTeam": "Golden State Warriors",
+    "winner": "Dallas Mavericks"
+  },
+  {
+    "homeTeam": "San Antonio Spurs",
+    "awayTeam": "Orlando Magic",
+    "winner": "San Antonio Spurs"
+  },
+  {
+    "homeTeam": "Miami Heat",
+    "awayTeam": "Utah Jazz",
+    "winner": "Utah Jazz"
+  },
+  {
+    "homeTeam": "Boston Celtics",
+    "awayTeam": "Sacremento Kings",
+    "winner": "Boston Celtics"
+  },
+  {
+    "homeTeam": "Golden State Warriors",
+    "awayTeam": "Los Angeles Lakers",
+    "winner": "Golden State Warriors"
+  },
+  {
+    "homeTeam": "Los Angeles Lakers",
+    "awayTeam": "Oklahoma City Thunder",
+    "winner": "Los Angeles Lakers"
+  },
+  {
+    "homeTeam": "Oregon Trailblazers",
+    "awayTeam": "Phoenix Suns",
+    "winner": "Phoenix Suns"
+  },
+  {
+    "homeTeam": "Boston Celtics",
+    "awayTeam": "Los Angeles Lakers",
+    "winner": "Boston Celtics"
+  },
+  {
+    "homeTeam": "New York Knicks",
+    "awayTeam": "Brooklyn Nets",
+    "winner": "Brooklyn Nets"
+  },
+  {
+    "homeTeam": "Los Angeles Clippers",
+    "awayTeam": "Houston Rockets",
+    "winner": "Houston Rockets"
+  }
+]
